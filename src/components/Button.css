@@ -16,7 +16,7 @@
 
 .btn--primary{
     background-color: var(--primary);
-    color: #000000;
+    color: #ffffff;
     border: 1px solid var(--primary);
 }
 
@@ -33,14 +33,21 @@
     font-size: 15px;
 }
 
-.btn--larg{
+.btn--large{
     padding: 10px 30px;
-    font-size: 15px;
+    font-size: 17px;
 }
 
-.btn--medium:hover,
-.btn--larg:hover{
-    background-color: #ffff;
+
+.btn--large:hover,
+.btn--medium:hover{
+    background-color: #000;
+    color: #ffffff;
+    transition: all 0.3s ease-out;
+}
+
+.btn--primary:hover{
+    background-color: #fff;
     color: #000000;
     transition: all 0.3s ease-out;
 }
