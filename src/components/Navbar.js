@@ -42,32 +42,32 @@ useEffect(() => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/packages" className="nav-links" onClick={closeMobileMenu}>
                   Packages
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/shop" className="nav-links" onClick={closeMobileMenu}>
                   Shop
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/about" className="nav-links" onClick={closeMobileMenu}>
                   About
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/pages" className="nav-links" onClick={closeMobileMenu}>
                   Pages
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/news" className="nav-links" onClick={closeMobileMenu}>
                   News
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link to="/contact" className="nav-links" onClick={closeMobileMenu}>
                   Contact
                 </Link>
               </li>
