@@ -8,10 +8,11 @@ function Footer() {
     <div className="footer-background">
       <div className="footer-container">
         <div className="section-1">
-          <section className="footer-subscription">
+          <section className="footer-subscription-heading">
             <h2>Travel with Us</h2>
-            <p className="footer-subscription-heading">
-              Join the Adventure newsletter to recieve our best vacation deals.
+            <p className="footer-subscription">
+              <b>Join the Adventure newsletter to recieve our best vacation deals.</b><br></br>
+              <br></br>Embark on unforgettable journeys with our travel agency. Discover exotic destinations, indulge in luxurious accommodations, and create lifelong memories with our expertly curated travel experiences.
             </p>
 
             <div className="input-areas">
@@ -29,39 +30,39 @@ function Footer() {
           <div className="footer-links">
             <div className="footer-link-items">
               <h3>About Us</h3>
-              <Link to="/sign-up">How it works</Link>
+              <Link to="/sign-up">Packages</Link>
               <br></br>
-              <Link to="/sign-up">Testimonials</Link>
+              <Link to="/sign-up">Shop</Link>
               <br></br>
-              <Link to="/sign-up">Investors</Link>
+              <Link to="/sign-up">About</Link>
               <br></br>
-              <Link to="/sign-up">Careers</Link>
+              <Link to="/sign-up">News</Link>
               <br></br>
-              <Link to="/sign-up">Terms of service</Link>
+              <Link to="/sign-up">Contact</Link>
             </div>
             <div className="footer-link-items">
-              <h3>About Us</h3>
-              <Link to="/sign-up">How it works</Link>
+              <h3>Partners</h3>
+              <Link to="/sign-up">Booking</Link>
               <br></br>
-              <Link to="/sign-up">Testimonials</Link>
+              <Link to="/sign-up">Rentalcar</Link>
               <br></br>
-              <Link to="/sign-up">Investors</Link>
+              <Link to="/sign-up">Trivago</Link>
               <br></br>
-              <Link to="/sign-up">Careers</Link>
+              <Link to="/sign-up">TripAdvisor</Link>
               <br></br>
-              <Link to="/sign-up">Terms of service</Link>
+              <Link to="/sign-up">HostelWorld</Link>
             </div>
             <div className="footer-link-items">
-              <h3>About Us</h3>
-              <Link to="/sign-up">How it works</Link>
+              <h3>Our Agencies</h3>
+              <Link to="/sign-up">London</Link>
               <br></br>
-              <Link to="/sign-up">Testimonials</Link>
+              <Link to="/sign-up">Australia</Link>
               <br></br>
-              <Link to="/sign-up">Investors</Link>
+              <Link to="/sign-up">USA</Link>
               <br></br>
-              <Link to="/sign-up">Careers</Link>
+              <Link to="/sign-up">Germany</Link>
               <br></br>
-              <Link to="/sign-up">Terms of service</Link>
+              <Link to="/sign-up">France</Link>
             </div>
           </div>
         </div>
@@ -73,8 +74,9 @@ function Footer() {
                 TRAVEL <i class="fa-brands fa-typo3"></i>
               </Link>
             </div>
-            <small className="website-rights">TRAVEL &copy 2024</small>
-            <div className="social icons">
+            <small className="website-rights">Copyright Reserved TRAVEL &copy; 2024</small>
+
+            <div className="social-icons">
               <Link
                 className="social-icon-link facebook"
                 to="/"

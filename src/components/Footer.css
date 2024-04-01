@@ -23,9 +23,30 @@
   .section-1 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
+    gap: 50px;
+  }
+
+  .section-1 p{
+    padding-top: 15px;
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  .section-1 .input-areas{
+    padding-top: 20px;
   }
   
+.section-1 .input-areas input{
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid var(--primary);
+    color: #000;
+    padding: 8px 20px;
+    transition: all 0.3s ease-out;
+    margin-right: 15px;
+}
+
+
   .footer-links {
     display: flex;
     flex-wrap: wrap;
@@ -35,22 +56,35 @@
   .footer-link-items {
     flex: 1;
   }
-  
-  .footer-link-items h3 {
-    font-size: 18px;
-    color: #333; /* Added color */
+
+  .footer-link-items h3{
+    padding-bottom: 15px;
   }
   
+  
   .footer-link-items a {
-    color: #666; /* Changed link color */
+    color: #666; 
     text-decoration: none;
     line-height: 1.5;
   }
   
   .footer-link-items a:hover {
-    color: #444; /* Changed link hover color */
+    color: #444; 
   }
   
+.social-logo{
+    color: black;
+    cursor: pointer; 
+    text-decoration: none;   
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.social-logo:hover{
+    color: #444;
+}
+
   .social-media-wrap {
     display: flex;
     justify-content: space-between;
@@ -62,16 +96,16 @@
   
   .social-media-wrap small {
     font-size: 14px;
-    color: #666; /* Added color */
+    color: #000; 
   }
   
   .social-icons a {
-    color: #666; /* Changed icon color */
-    font-size: 24px;
+    color: #000; 
+    font-size: 20px;
     margin-right: 10px;
   }
   
   .social-icons a:hover {
-    color: #444; /* Changed icon hover color */
+    color: #444; 
   }
   
