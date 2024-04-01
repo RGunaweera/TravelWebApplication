@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "path": "/packages",
+        "src": "/images/img-1.jpg",
+        "heading": "Bora Bora",
+        "location": "New Zealand",
+        "label": "Adventure",
+        "price": "$700",
+        "details": "Santorini is known for its stunning sunsets, white-washed buildings, and crystal-clear waters. Perfect for a romantic getaway."       
+        
+    },
+    {
+        "id": 2,
+        "path": "/packages",
+        "src": "/images/img-2.jpg",
+        "heading": "Santorini",
+        "location": "Greece",
+        "label": "Romance",
+        "price": "$1200",
+        "details": "Santorini is known for its stunning sunsets, white-washed buildings, and crystal-clear waters. Perfect for a romantic getaway."
+    },
+    {
+        "id": 3,
+        "path": "/packages",
+        "src": "/images/img-3.jpg",
+        "heading": "Maui",
+        "location": "Hawaii",
+        "label": "Beach",
+        "price": "$900",
+        "details": "Explore the beautiful beaches of Maui and enjoy activities like snorkeling, surfing, and whale watching."
+    },
+    {
+        "id": 4,
+        "path": "/packages",
+        "src": "/images/img-4.jpg",
+        "heading": "Swiss Alps",
+        "location": "Switzerland",
+        "label": "Adventure",
+        "price": "$1500",
+        "details": "Experience the breathtaking beauty of the Swiss Alps with activities like skiing, snowboarding, and hiking."
+    },
+    {
+        "id": 5,
+        "path": "/packages",
+        "src": "/images/img-5.jpg",
+        "heading": "Kyoto",
+        "location": "Japan",
+        "label": "Culture",
+        "price": "$1000",
+        "details": "Discover the rich cultural heritage of Kyoto with its ancient temples, traditional tea houses, and stunning gardens."
+    },
+    {
+        "id": 6,
+        "path": "/packages",
+        "src": "/images/img-6.jpg",
+        "heading": "Paris",
+        "location": "France",
+        "label": "Romance",
+        "price": "$1300",
+        "details": "Experience the city of love with its iconic landmarks like the Eiffel Tower, Notre Dame Cathedral, and Louvre Museum."
+    },
+    {
+        "id": 7,
+        "path": "/packages",
+        "src": "/images/img-7.jpg",
+        "heading": "Machu Picchu",
+        "location": "Peru",
+        "label": "Adventure",
+        "price": "$1600",
+        "details": "Embark on an adventure to the ancient ruins of Machu Picchu and explore the Inca civilization."
+    },
+    {
+        "id": 8,
+        "path": "/packages",
+        "src": "/images/img-8.jpg",
+        "heading": "Amalfi Coast",
+        "location": "Italy",
+        "label": "Beach",
+        "price": "$1100",
+        "details": "Relax and unwind on the stunning beaches of the Amalfi Coast while enjoying delicious Italian cuisine."
+    },
+    {
+        "id": 9,
+        "path": "/packages",
+        "src": "/images/img-9.jpg",
+        "heading": "Banff National Park",
+        "location": "Canada",
+        "label": "Adventure",
+        "price": "$1400",
+        "details": "Immerse yourself in the natural beauty of Banff National Park with its pristine lakes, majestic mountains, and abundant wildlife."
+    },
+    {
+        "id": 10,
+        "path": "/packages",
+        "src": "/images/img-9.jpg",
+        "heading": "Rio de Janeiro",
+        "location": "Brazil",
+        "label": "Beach",
+        "price": "$950",
+        "details": "Experience the vibrant culture and beautiful beaches of Rio de Janeiro, including Copacabana and Ipanema."
+    },
+    {
+        "id": 11,
+        "path": "/packages",
+        "src": "/images/img-9.jpg",
+        "heading": "Grand Canyon",
+        "location": "USA",
+        "label": "Adventure",
+        "price": "$1200",
+        "details": "Marvel at the awe-inspiring beauty of the Grand Canyon with its vast expanses and stunning rock formations."
+    }   ,
+    {
+        "id": 12,
+        "path": "/packages",
+        "src": "/images/img-2.jpg",
+        "heading": "Santorini",
+        "location": "Greece",
+        "label": "Romance",
+        "price": "$1200",
+        "details": "Santorini is known for its stunning sunsets, white-washed buildings, and crystal-clear waters. Perfect for a romantic getaway."
+    }
+
+]
